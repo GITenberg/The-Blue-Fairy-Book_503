@@ -1,0 +1,51 @@
+_repo: The-Blue-Fairy-Book_503
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: 'Indhold: East o'' the sun and west o'' the moon ; The bronze ring ;
+  The yellow dwarf ; Little Red Riding-Hood ; The sleeping beauty in the wood ; Cinderella,
+  or The little glass slipper ; Aladdin and the wonderful lamp ; The tale of a youth
+  who set out to learn what fear was ; Rumpelstiltzkin ; Beauty and the beast ; The
+  mastermind ; Why the sea is salt ; The master cat, or Puss in boots ; The white
+  cat ; The water-lily ; The gold spinners ; The terrible head ; The story of pretty
+  Goldilocks ; The history of Whittington ; Prince Dorus ; Little thumb ; The forty
+  thieves ; Hansel and Grettel ; Snow-white and Rose-red ; The goose girl ; Toads
+  and diamonds ; Blue Beard ; Trusty John ; The brave little tailor ; The princess
+  on the glass hill ; The history of Jack the Giant-Killer ; The Red Etin ; The black
+  bull of Norroway'
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2005-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Folklore'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: The bronze ring -- Prince Hyacinth and the dear little princess --
+  East of the sun and West of the moon -- The yellow dwarf -- Little Red Riding-Hood
+  -- The sleeping beauty in the wood -- Cinderella; or, the little glass slipper --
+  Aladdin and the wonderful lamp -- The tale of a youth who set out to learn what
+  fear was -- Rumpelstiltzkin -- Beauty and the Beast -- The Master-Maid -- Why the
+  sea is salt -- The Master cat; or, Puss in boots -- Felicia and the pot of pinks
+  -- The white cat -- The water-lily -- The gold-spinners -- The terrible head --
+  The story of pretty Goldilocks -- The history of Whittington -- The wonderful sheep
+  -- Little Thumb -- The forty thieves -- Hansel and Grettel -- Snow-White and Rose-Red
+  -- The goose-girl -- Toads and diamonds -- Prince Darling -- Blue Beard -- Trusty
+  John -- The brave little tailor -- A voyage to Lilliput -- The princess on the glass
+  hill -- The story of Prince Ahmed and the fairy Paribanou -- The history of Jack
+  the giant-killer -- The black bull of Norroway -- The Red Etin.
+title: The Blue Fairy Book
+url: http://www.gutenberg.org/ebooks/503
