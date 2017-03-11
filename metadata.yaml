@@ -1,5 +1,8 @@
 _repo: The-Blue-Fairy-Book_503
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lang, Andrew
@@ -20,6 +23,8 @@ description: 'Indhold: East o'' the sun and west o'' the moon ; The bronze ring 
   and diamonds ; Blue Beard ; Trusty John ; The brave little tailor ; The princess
   on the glass hill ; The history of Jack the Giant-Killer ; The Red Etin ; The black
   bull of Norroway'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/503#The-Blue-Fairy-Book
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2005-10-21'
 gutenberg_type: Text
